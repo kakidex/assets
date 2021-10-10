@@ -1,6 +1,6 @@
 {
     "name": "Wrapped Ether",
-    "symbol": "WETH",
+    "symbol": "pWETH",
     "type": "POLYGON",
     "decimals": 18,
     "description": "WETH is Wrapped Ether",
